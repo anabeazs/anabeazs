@@ -1,3 +1,5 @@
+<br clear="both">
+
 <div align="left">
   <img height="160" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjhlNTEwc3p2eDJtZXlha295dW9heXR6bDc4aTJ5cnd5Y2NybXJtYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eHQ5BsgBIBIGI/giphy.gif"  />
 </div>
@@ -51,10 +53,9 @@
   <img src="https://streak-stats.demolab.com?user=Anabeazs&locale=pt-br&mode=daily&theme=merko&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-
 ###
 
-<h5 align="left">💿🪩🎶 - 𝙾 𝚚𝚞𝚎 𝚎𝚞 𝚊𝚗𝚍𝚘 𝚘𝚞𝚟𝚒𝚗𝚍𝚘:</h5>
+<h5 align="center">💿🪩🎶 - 𝙾 𝚚𝚞𝚎 𝚎𝚞 𝚊𝚗𝚍𝚘 𝚘𝚞𝚟𝚒𝚗𝚍𝚘:</h5>
 
 ###
 
@@ -65,4 +66,3 @@
 </div>
 
 ###
-
