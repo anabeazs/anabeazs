@@ -1,8 +1,5 @@
 <br clear="both">
 
-<div align="left">
-  <img height="160" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjhlNTEwc3p2eDJtZXlha295dW9heXR6bDc4aTJ5cnd5Y2NybXJtYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eHQ5BsgBIBIGI/giphy.gif"  />
-</div>
 
 ###
 
