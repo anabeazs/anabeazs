@@ -43,30 +43,3 @@
 
 <h5 align="center">___________________________________________________________________________________________________________________________</h5>
 
-###
-
-<h5 align="center">💿🪩🎶 - 𝙾 𝚚𝚞𝚎 𝚎𝚞 𝚊𝚗𝚍𝚘 𝚘𝚞𝚟𝚒𝚗𝚍𝚘:</h5>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/besouza_62">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=besouza_62&count=4&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.behance.net/anabeatriz632" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
